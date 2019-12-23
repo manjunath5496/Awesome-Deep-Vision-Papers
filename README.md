@@ -132,7 +132,7 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Deep-Vision-Papers/blob/master/awd(68).pdf" style="text-decoration:none;">Multi-Scale Context Aggregation by Dilated Convolutions</a></b></li>
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Deep-Vision-Papers/blob/master/awd(69).pdf" style="text-decoration:none;">Pushing the Boundaries of Boundary Detection using Deep Learning</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Deep-Vision-Papers/blob/master/awd(70).pdf" style="text-decoration:none;">dedddddd</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Deep-Vision-Papers/blob/master/awd(70).pdf" style="text-decoration:none;">Spherical CNNs</a></b></li>  
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Deep-Vision-Papers/blob/master/awd(71).pdf" style="text-decoration:none;">SSD: Single Shot MultiBox Detector</a></b></li>  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Deep-Vision-Papers/blob/master/awd(72).pdf" style="text-decoration:none;">Deep Residual Learning for Image Recognition</a></b></li>  
                                              
